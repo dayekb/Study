@@ -1,0 +1,50 @@
+Так же на занятии будут подробно рассмотрены блокноты
+https://colab.research.google.com/drive/1Yuj9zNdq3TVplffegiYXO6pQGuV3c10a?usp=sharing
+и часть блокнота
+https://colab.research.google.com/drive/1ZvcWGTGUWbzqhZ1cbNwq4LgztayuScxc?usp=sharing
+
+Ссылка на блокнот по основам работы с Наборами Данных
+https://colab.research.google.com/drive/1IrjJEnResbR2fZecaCU7HFrfUFcdyDE6?usp=sharing
+Ссылка на Блокнот по предварительной обработке Данных
+https://colab.research.google.com/drive/1q3HsjCPgl9gXwiNxI8OTkpPId8a5QcPD?usp=sharing
+Ссылка на Блокнот с Интерактивной Визуализацией
+https://colab.research.google.com/drive/1OcYvCADVed4PybnreJRjHxZxxXfQ6QHx?usp=sharing
+
+Соберем Алгоритм Линейной Регрессии своими руками
+https://colab.research.google.com/drive/1sP0qdbA-ecRQrcE9S_JiVsFIapy11VpN?usp=sharing
+Посмотрим блокнот про Применение этого алгоритма на данных "про машинки"
+https://colab.research.google.com/drive/1_Dx-TAsLav17qmOyvc9FlrNZDHDZXP2F?usp=sharing
+А также блокнот про реализацию Линейной регрессии от scikit-learn
+https://colab.research.google.com/drive/1Wg0X8uBbw3fWz-Tn0rpw_5E7r2r8AlTc?usp=sharing
+Дополнительный блокнот про то, как по разному можно делать кросс-валидацию
+https://colab.research.google.com/drive/17hkqdDgoPavQpY3eP-VnLbHVUPIuhIcX?usp=sharing
+
+Соберем Алгоритм Логистической Регрессии своими руками
+https://colab.research.google.com/drive/1MAliQfLCTMB0pDEGU83hOG9FctK1MuP6?usp=sharing
+Посмотрим блокнот про Применение этого алгоритма на данных "про машинки"
+https://colab.research.google.com/drive/168G7II7bMak9Z1WFsnN7XUVhMtXjkx2D?usp=sharing
+А также блокнот про реализацию Логистической регрессии от scikit-learn
+https://colab.research.google.com/drive/1Wg0X8uBbw3fWz-Tn0rpw_5E7r2r8AlTc?usp=sharing
+
+А также посмотрим что внутри алгоритма Метода Главных компонент на синтетических данных и на наборе данных MNIST
+https://colab.research.google.com/drive/1QNlEoJ6VvxNpixw_J1tfwsAhvPzT3OF0?usp=sharing
+Посмотрим блокнот про Применение Метода Главных компонент на данных "про машинки"
+https://colab.research.google.com/drive/11jhiVpXUmT3yEUZnrJaxgks0OeJiYpS9?usp=sharing
+А также блокнот про реализацию Метода Главных компонент от scikit-learn
+https://colab.research.google.com/drive/1Wg0X8uBbw3fWz-Tn0rpw_5E7r2r8AlTc?usp=sharing
+
+Собрал "промежуточный" пример, в котором размерность матрицы данных больше чем 2, но меньше чем 784 (4-D данные)
+https://colab.research.google.com/drive/1mwL18Alci2MdH_l5PXBSlmkSCsj6npcj?usp=sharing
+
+Блокнот про Кластеризацию на Синтетических данных
+https://colab.research.google.com/drive/1aQWhei4Y4Wthf5VYPDCRS35_3-NdKkk3?usp=sharing
+Ну дообсудим последние два блокнота из предыдущей темы, поскольку Уменьшение размерности там тесно связано с Кластеризацией
+Посмотрим блокнот на данных "про машинки"
+https://colab.research.google.com/drive/11jhiVpXUmT3yEUZnrJaxgks0OeJiYpS9?usp=sharing
+А также блокнот  на данных "про машинки" реализации от scikit-learn
+https://colab.research.google.com/drive/1Wg0X8uBbw3fWz-Tn0rpw_5E7r2r8AlTc?usp=sharing 
+
+Про отбор гиперпараметров модели
+https://colab.research.google.com/drive/14lOEylbmEQ4ms-UiZ-iOBJdmWSJfpiry?usp=sharing
+Про Pipeline
+https://colab.research.google.com/drive/1iz_YVPwew25-wTViWGvpYjw7yKAh2P4A?usp=sharing
