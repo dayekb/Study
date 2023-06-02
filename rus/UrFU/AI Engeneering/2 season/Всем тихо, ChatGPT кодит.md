@@ -21,27 +21,27 @@ https://colab.research.google.com/drive/1COpVj19zvdaDV2XzYM0C4UWB_uNYMJsG?usp=sh
 Еще добавлена визуализация результатов кластеризации, причем шумовые точки еще и подписываются
 
 **«Деревья решений для Классификации»** <br />
-https://colab.research.google.com/drive/1z11DH3R7Y7-U0DxbbWDmoJYAnvEBQIwT?usp=sharing
+https://colab.research.google.com/drive/1z11DH3R7Y7-U0DxbbWDmoJYAnvEBQIwT?usp=sharing <br /> 
 За "авторством" ChatGPT <br /> 
 
 
 **«Случайный Лес для Классификации»** <br />
-https://colab.research.google.com/drive/1OP-seA-eA8vdxMJ6zHGNfOBIgAg4lNoZ?usp=sharing
+https://colab.research.google.com/drive/1OP-seA-eA8vdxMJ6zHGNfOBIgAg4lNoZ?usp=sharing <br /> 
 За "авторством" ChatGPT <br /> 
 
 **«Градиентный Бустинг для Регрессии»** <br />
-https://colab.research.google.com/drive/11wbKiPPDvQZxfCG-tTDMWRPu3G_svgn0?usp=sharing
+https://colab.research.google.com/drive/11wbKiPPDvQZxfCG-tTDMWRPu3G_svgn0?usp=sharing <br /> 
 За "авторством" ChatGPT <br /> 
 Еще есть визуализация ошибок регрессии
 
 **«Градиентный Бустинг для Классификации (бинарная)»** <br />
-https://colab.research.google.com/drive/1Sy4eMsZEryldXujC2yR6GqCRNy1wFz__?usp=sharing
+https://colab.research.google.com/drive/1Sy4eMsZEryldXujC2yR6GqCRNy1wFz__?usp=sharing <br /> 
 За "авторством" ChatGPT <br /> 
 Через деревья регрессии <br /> 
 БИНАРНАЯ, Карл
 
 
 **«Градиентный Бустинг для Классификации (случай многих классов)»** <br />
-https://colab.research.google.com/drive/1QsBkOqiVGI2ed1qfD8eII0rFscIfKvqZ?usp=sharing
+https://colab.research.google.com/drive/1QsBkOqiVGI2ed1qfD8eII0rFscIfKvqZ?usp=sharing <br /> 
 За "авторством" ChatGPT <br /> 
 Оно не смогло сделать нормальные деревья решений для мультирегрессии
